@@ -1,1 +1,0 @@
-./Debug/main.cpp.o ./Debug/Subject.cpp.o ./Debug/Store.cpp.o ./Debug/Product.cpp.o ./Debug/Observer.cpp.o
